@@ -1,4 +1,4 @@
-h1 align="center">Hello! 👋 I'm omairr</h1>
+<h1 align="center">Hello! 👋 I'm omairr</h1>
 <h3 align="center">
   I am a hobby developer and a half decent designer 
   <br />
