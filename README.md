@@ -3,7 +3,7 @@
   I am a hobby developer and a half decent designer 
   <br />
   <br />
-  <a href="https://discord.com/users/779442220104417280"><img src="https://lanyard.cnrad.dev/api/779442220104417280"></a>
+  [![Discord Presence](https://lanyard.cnrad.dev/api/:779442220104417280)](https://discord.com/users/:779442220104417280)
 </h3>
 
 ## About Me
