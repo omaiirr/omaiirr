@@ -7,7 +7,7 @@
 
 ## About Me
 
-- I'm currently working on [My Website](https://omairr.github.io) and my discord bot
+- I'm currently working on [My Website](https://omaiirr.github.io) and my discord bot
 
 <!--
 **omaiirr/omaiirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
