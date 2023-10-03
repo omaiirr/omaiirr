@@ -15,6 +15,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=omaiirr&theme=dracula&hide_border=true)](https://git.io/streak-stats)'
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=omaiirr&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omaiirr)](https://github.com/omaiirr/omaiirr)
 <!--
 **omaiirr/omaiirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
