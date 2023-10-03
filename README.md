@@ -14,9 +14,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=omaiirr&theme=dracula&hide_border=true)](https://git.io/streak-stats)'
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=omaiirr&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api username=omaiirr&show_icons=true&count_private=true&theme=dracula&hide_border=true) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omaiirr&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omaiirr&langs_count=3&count_private=true&layout=compact&theme=dracula&hide_border=true)
 <!--
 **omaiirr/omaiirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
