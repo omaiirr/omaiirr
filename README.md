@@ -11,9 +11,10 @@
 - I'm currently working on [My Website](https://omaiirr.github.io) and my discord bot
 
 ## Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=omaiirr)](https://github.com/omaiirr/omaiirr)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=omaiirr&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=omaiirr&theme=dracula&hide_border=true)](https://git.io/streak-stats)'
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <!--
 **omaiirr/omaiirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
