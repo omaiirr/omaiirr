@@ -8,7 +8,7 @@
 
 ## About Me
 
-- I'm currently working on [My Website](https://omaiirr.github.io) and my discord bot
+- I'm currently working on [my Website](https://omaiirr.github.io) and a discord bot
 
 ## Stats
 
