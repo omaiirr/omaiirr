@@ -1,6 +1,6 @@
 <h1 align="center">Hello! 👋 I'm omairr</h1>
 <h3 align="center">
-  I am a hobby developer and a half decent designer 
+  I am a hobby developer and a shitty designer 
   <br />
   <br />
   <a href="https://discord.com/users/779442220104417280"><img src="https://lanyard.cnrad.dev/api/779442220104417280"></a>
